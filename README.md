@@ -8,7 +8,7 @@ Features:
 * Core-php
 * No page refresh
 
-Steps to follw:
+Steps to follow:
 * Import ajax.sql into database
 * use a localserver(wamp,xamp) to host these php files.
 * Go into "inc" folder and open "db.php" (inc/db.php) file and give the host, user name,password and database name. 
